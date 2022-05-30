@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mkdueces
+- 👋 Hi, I’m @MKDueces
 - 👀 I’m interested in ... Web Development 
 - 🌱 I’m currently learning ... Javascript and React
 - 💞️ I’m looking to collaborate on ...
