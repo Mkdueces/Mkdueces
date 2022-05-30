@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mkdueces
 - 👀 I’m interested in ... Web Development 
-- 🌱 I’m currently learning ... Javascript
+- 🌱 I’m currently learning ... Javascript and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... email address MKyles1988@hotmail.com
 <!---
